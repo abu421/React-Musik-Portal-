@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Musik-Portalz/static/css/main.6f2080d0.chunk.css",
+    "main.js": "/React-Musik-Portalz/static/js/main.55948923.chunk.js",
+    "main.js.map": "/React-Musik-Portalz/static/js/main.55948923.chunk.js.map",
+    "runtime-main.js": "/React-Musik-Portalz/static/js/runtime-main.b54eeb24.js",
+    "runtime-main.js.map": "/React-Musik-Portalz/static/js/runtime-main.b54eeb24.js.map",
+    "static/js/2.8a55a0bd.chunk.js": "/React-Musik-Portalz/static/js/2.8a55a0bd.chunk.js",
+    "static/js/2.8a55a0bd.chunk.js.map": "/React-Musik-Portalz/static/js/2.8a55a0bd.chunk.js.map",
+    "static/js/3.06d2dc3e.chunk.js": "/React-Musik-Portalz/static/js/3.06d2dc3e.chunk.js",
+    "static/js/3.06d2dc3e.chunk.js.map": "/React-Musik-Portalz/static/js/3.06d2dc3e.chunk.js.map",
+    "index.html": "/React-Musik-Portalz/index.html",
+    "static/css/main.6f2080d0.chunk.css.map": "/React-Musik-Portalz/static/css/main.6f2080d0.chunk.css.map",
+    "static/js/2.8a55a0bd.chunk.js.LICENSE.txt": "/React-Musik-Portalz/static/js/2.8a55a0bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b54eeb24.js",
+    "static/js/2.8a55a0bd.chunk.js",
+    "static/css/main.6f2080d0.chunk.css",
+    "static/js/main.55948923.chunk.js"
+  ]
+}
